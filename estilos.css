@@ -1,0 +1,19 @@
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+.bars {
+    display: none;
+}
+
+.nav-bar ul li a {
+    display: block;
+    color: white;
+    font-size: 3em;
+    padding: 10px 25px;
+    border-radius: 15px;
+    transition: 0.2s;
+    margin: 0 5px;
+}
